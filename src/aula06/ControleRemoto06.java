@@ -7,6 +7,7 @@ public class ControleRemoto06 implements Controlador06{
 	private boolean tocando;
 
 	// metodo construtor
+	//tentando atualizar
 	public ControleRemoto06() {
 	
 		this.volume = 50;
